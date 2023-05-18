@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Automation>
+  <Execution>
+    <Form_TC001>
+      <url>https://demoqa.com/automation-practice-form
+      </url>
+      <fname>Sami</fname>
+      <lname>Baig</lname>
+      <email>samibaig21000@gmail.com</email>
+      <phonenumber>03132007788</phonenumber>
+      <dob>16 Jun 2002</dob>
+      <Subject>Computer</Subject>
+      <currentaddress>Johar Block 2 Near Naryal Park</currentaddress>
+      <state>NCR</state>
+      <city>Delhi</city>
+    </Form_TC001>
+  </Execution>
+</Automation>

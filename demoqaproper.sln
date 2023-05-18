@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoqaproper", "demoqaproper.csproj", "{F1AB7533-EDAF-4C7B-B99E-EE8101FEAFA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1AB7533-EDAF-4C7B-B99E-EE8101FEAFA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AB7533-EDAF-4C7B-B99E-EE8101FEAFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AB7533-EDAF-4C7B-B99E-EE8101FEAFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AB7533-EDAF-4C7B-B99E-EE8101FEAFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34D545EF-9134-4539-B49E-F5243AE779B9}
+	EndGlobalSection
+EndGlobal
